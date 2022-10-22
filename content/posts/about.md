@@ -23,7 +23,7 @@ Feel free to utilize my super-fast Monero nodes, running on 1Gbps-10Gbps links a
 <td>
 
 | Location | ISP | Address |
-| --- | ---: | ----: |
+| --- | --- | ----: |
 | Charlotte, NC | [AS6167](https://bgp.he.net/AS6167) | monero.vzw.secunit.io:18089 |
 | Charlotte, NC | [AS7843](https://bgp.he.net/AS7843) | monero.twc.secunit.io:18089 |
 
@@ -31,7 +31,7 @@ Feel free to utilize my super-fast Monero nodes, running on 1Gbps-10Gbps links a
 <td>
 
 | Location | ISP | Address |
-| --- | ---: | ----: |
+| --- | --- | ----: |
 | Atlanta, GA | [AS20473](https://bgp.he.net/AS20473) | monero.atl.secunit.io:18089 |
 | Stockholm, Sweden | [AS20473](https://bgp.he.net/AS20473) | monero.se.secunit.io:18089 |
 
