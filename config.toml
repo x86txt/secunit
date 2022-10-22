@@ -196,6 +196,11 @@ defaultContentLanguage = "en"
   [[params.social]]
     name = "github"
     url  = "https://github.com/x86txt"
+   
+   [[params.social]]
+    name = "goodreads"
+    url  = "https://www.goodreads.com/user/show/138025628-matthew-evans"
+    icon = "fa-brands fa-goodreads"
 
   [[params.social]]
     name = "linkedin"
@@ -209,18 +214,10 @@ defaultContentLanguage = "en"
 [menu]
   [[menu.main]]
     identifier = "about"
-    name       = "About"
+    name       = "about"
     url        = "about/"
   [[menu.main]]
     identifier = "posts"
-    name       = "Posts"
+    name       = "posts"
     url        = "posts/"
-  [[menu.main]]
-    identifier = "tools"
-    name       = "Tools"
-    url        = "#"
-  [[menu.main]]
-    identifier = "sometool"
-    name       = "SomeTool"
-    url        = "#"
-    parent     = "tools"
+
