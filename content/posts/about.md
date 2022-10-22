@@ -15,7 +15,7 @@ I'm currently employed by a [Prometheus Alternative Investments](https://prometh
 
 Feel free to utilize my super-fast Monero nodes, running on 1Gbps-10Gbps links and the latest [AMD Zen 3](https://www.amd.com/en/products/cpu/amd-ryzen-9-5950x#product-specs) hardware:
 
-<table>
+<table style="width:100%">
 <tr>
 <th>1Gbps</th><th>10Gbps+</th>
 </tr>
