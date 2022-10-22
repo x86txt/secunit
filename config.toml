@@ -217,4 +217,7 @@ defaultContentLanguage = "en"
     identifier = "posts"
     name       = "posts"
     url        = "posts/"
-
+[[menu.main]]
+    identifier = "monero"
+    name       = "monero"
+    url        = "monero/"
