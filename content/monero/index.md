@@ -7,7 +7,7 @@ title: "monero | secunit"
 <br />
 <br />
 
-![Want to know more?](monero-symbol-on-white-480.png)
+<a href="https://getmonero.org">![Want to know more?](https://secunit.pages.dev/images/monero-symbol-on-white-480.png)</a>
 
 Feel free to utilize my super-fast Monero nodes, running the latest [AMD Zen 3](https://www.amd.com/en/products/cpu/amd-ryzen-9-5950x#product-specs) hardware:
 <table style="width:100%">
