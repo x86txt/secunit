@@ -185,15 +185,6 @@ defaultContentLanguage = "en"
 
   # Social icons
   [[params.social]]
-    name = "twitter"
-    url  = "https://twitter.com/x86txt"
-
-  [[params.social]]
-    name = "email"
-    url  = "mailto:matt@secunit.io"
-    icon = "fa-solid fa-envelope"
-
-  [[params.social]]
     name = "github"
     url  = "https://github.com/x86txt"
    
@@ -205,6 +196,12 @@ defaultContentLanguage = "en"
   [[params.social]]
     name = "linkedin"
     url  = "https://www.linkedin.com/in/mevanssecurity/"
+
+  [[params.social]]
+    name = "reddit"
+    url  = "https://www.reddit.com/user/AnotherAnonGringo/"
+    icon = "fa-brands fa-reddit"
+
 
 [languages]
   [languages.en]
