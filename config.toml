@@ -40,7 +40,7 @@ defaultContentLanguage = "en"
   posts = "/posts/:year/:month/:title/"
 
 [author]
-  name = "Jane Doe"
+  name = "matthew evans"
 
 [blackfriday]
   hrefTargetBlank = true
@@ -92,7 +92,7 @@ defaultContentLanguage = "en"
   # Per default, this option is off. 
   # The theme is respecting the prefers-color-scheme of the operating systeme. 
   # With this option on, the page user is able to set the scheme he wants. 
-  enableThemeToggle = true
+  enableThemeToggle = false
 
   # Sharing buttons
   #
@@ -106,7 +106,7 @@ defaultContentLanguage = "en"
   #
   # Enables the global language menu.
   #
-  enableGlobalLanguageMenu = true
+  enableGlobalLanguageMenu = false
 
   # Shows Posts on the front/Home page
   showPosts = true
@@ -137,8 +137,8 @@ defaultContentLanguage = "en"
     KitURL = "https://kit.fontawesome.com/KitID.js"
 
   [params.footer]
-    trademark = true
-    rss = true
+    trademark = false
+    rss = false
     copyright = true
     author = true
 
@@ -213,7 +213,7 @@ defaultContentLanguage = "en"
   [languages.en]
     subtitle  = "hello | secunit"
     weight    = 1
-    copyright = '<!-- <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a> -->'
+    copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
 
 [menu]
   [[menu.main]]
