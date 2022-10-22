@@ -2,7 +2,7 @@
 ---
 
 <p align="center">
-[![](https://secunit.pages.dev/images/monero-logo-480.png)](https://getmonero.org)
+<a href="https://getmonero.org"><img src="https://secunit.pages.dev/images/monero-logo-480.png"></a>
 </p>
 
 ### Monero is the leading cryptocurrency focused on private and censorship-resistant transactions. Monero transactions are confidential and untraceable. 
