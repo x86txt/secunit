@@ -146,10 +146,7 @@ defaultContentLanguage = "en"
     socialIcons = true
 
     topText = []
-    bottomText = [
-      "<!-- Powered by <a href=\"http://gohugo.io\">Hugo</a> -->",
-      "<!-- Hello 4s3ti theme by <a href=\"https://github.com/4s3ti\">4s3ti</a> -->"
-    ]
+    bottomText = []
 
   # Colors for favicons
   #
