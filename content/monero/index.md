@@ -1,5 +1,4 @@
----
----
+<!-- html comment -->
 
 <p align="center">
 <a href="https://getmonero.org"><img src="https://secunit.pages.dev/images/monero-logo-480.png"></a>
