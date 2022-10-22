@@ -190,7 +190,7 @@ defaultContentLanguage = "en"
    
    [[params.social]]
     name = "goodreads"
-    url  = "https://www.goodreads.com/user/show/138025628-matthew-evans"
+    url  = "https://www.goodreads.com/secunit"
     icon = "fa-brands fa-goodreads"
 
   [[params.social]]
