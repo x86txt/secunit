@@ -3,8 +3,6 @@ title: "about | secunit"
 date: 2022-10-22T12:19:39-04:00
 toc: false
 images:
-tags:
-  - untagged
 ---
 
 ## Matthew Evans 

@@ -1,8 +1,8 @@
-<!-- html comment -->
+---
+title: "monero | secunit"
+---
 
-<p align="center">
-<a href="https://getmonero.org"><img src="https://secunit.pages.dev/images/monero-logo-480.png"></a>
-</p>
+{{<img src="https://secunit.pages.dev/images/monero-logo-480.png" alt="GetMonero" position="center">}}
 
 ### Monero is the leading cryptocurrency focused on private and censorship-resistant transactions. Monero transactions are confidential and untraceable. 
 
