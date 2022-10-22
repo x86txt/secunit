@@ -2,12 +2,10 @@
 title: "monero | secunit"
 ---
 
-> "The majority of existing cryptocurrencies, including Bitcoin and Ethereum, but not Monero, have transparent blockchains - i.e. transactions can be verified and/or traced by anyone in the world. This means that the sending and receiving addresses of these transactions could potentially be linked to real-world identities."  
+> ![Want to know more?](https://secunit.pages.dev/images/monero-symbol-on-white-480.png) "The majority of existing cryptocurrencies, including Bitcoin and Ethereum, but not Monero, have transparent blockchains - i.e. transactions can be verified and/or traced by anyone in the world. This means that the sending and receiving addresses of these transactions could potentially be linked to real-world identities."  
 
 <br />
 <br />
-
-<a href="https://getmonero.org">![Want to know more?](https://secunit.pages.dev/images/monero-symbol-on-white-480.png)</a>
 
 Feel free to utilize my super-fast Monero nodes, running the latest [AMD Zen 3](https://www.amd.com/en/products/cpu/amd-ryzen-9-5950x#product-specs) hardware:
 <table style="width:100%">
