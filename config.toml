@@ -58,16 +58,16 @@ defaultContentLanguage = "en"
   
   # Metadata mostly used in document's head
   # 
-  description = "Nice theme for homepages and blogs"
+  description = "matthew evans' localhost"
   keywords = ""
   images = [""]
 
   # Home page title
-  homeTitle = "hello 4s3ti"
+  homeTitle = "hello | secunit"
 
   # Home subtitle of the index page.
   #
-  homeSubtitle = "Hello 4s3ti"
+  homeSubtitle = "welcome, and stuff ..."
 
   # Set a background for the homepage
   # backgroundImage = "assets/images/background.jpg"
@@ -147,8 +147,8 @@ defaultContentLanguage = "en"
 
     topText = []
     bottomText = [
-      "Powered by <a href=\"http://gohugo.io\">Hugo</a>",
-      "Hello 4s3ti theme by <a href=\"https://github.com/4s3ti\">4s3ti</a>"
+      "<!-- Powered by <a href=\"http://gohugo.io\">Hugo</a> -->",
+      "<!-- Hello 4s3ti theme by <a href=\"https://github.com/4s3ti\">4s3ti</a> -->"
     ]
 
   # Colors for favicons
@@ -213,11 +213,6 @@ defaultContentLanguage = "en"
   [languages.en]
     subtitle  = "Hello 4s3ti Theme"
     weight    = 1
-    copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
-
-  [languages.fr]
-    subtitle  = "Hello 4s3ti Theme"
-    weight    = 2
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
 
 [menu]
