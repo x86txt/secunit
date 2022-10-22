@@ -7,7 +7,9 @@ title: "monero | secunit"
 <br />
 <br />
 
-Feel free to utilize my super-fast Monero nodes, running on 1Gbps-10Gbps links and the latest [AMD Zen 3](https://www.amd.com/en/products/cpu/amd-ryzen-9-5950x#product-specs) hardware:
+![Want to know more?](monero-symbol-on-white-480.png)
+
+Feel free to utilize my super-fast Monero nodes, running the latest [AMD Zen 3](https://www.amd.com/en/products/cpu/amd-ryzen-9-5950x#product-specs) hardware:
 <table style="width:100%">
 <tr>
 <td>
