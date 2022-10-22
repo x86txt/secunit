@@ -3,7 +3,7 @@ title: "monero | secunit"
 ---
 
 <p>
-<a href="https://getmonero.org/"><img src="https://secunit.pages.dev/images/monero-symbol-on-white-480.png" position="left" style="width:60px;float:left;"></a>
+<a href="https://getmonero.org/"><img src="https://secunit.pages.dev/images/monero-symbol-on-white-480.png" position="left" style="width:100px;float:left;"></a>
 "The majority of existing cryptocurrencies, including Bitcoin and Ethereum, but not Monero, have transparent blockchains - i.e. transactions can be verified and/or traced by anyone in the world. This means that the sending and receiving addresses of these transactions could potentially be linked to real-world identities."
 </p>
 
