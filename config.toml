@@ -225,3 +225,8 @@ defaultContentLanguage = "en"
     identifier = "tor"
     name       = "tor"
     url        = "tor/"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
