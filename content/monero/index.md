@@ -2,9 +2,7 @@
 title: "monero | secunit"
 ---
 
-{{<image src="https://secunit.pages.dev/images/monero-logo-480.png" alt="GetMonero" position="center">}}
-
-### Monero is the leading cryptocurrency focused on private and censorship-resistant transactions. Monero transactions are confidential and untraceable. 
+{{<image src="https://secunit.pages.dev/images/monero-symbol-on-white-480.png" alt="GetMonero" position="center">}} ### Monero is the leading cryptocurrency focused on private and censorship-resistant transactions. Monero transactions are confidential and untraceable. 
 
 >Unlike the majority of existing cryptocurrencies, including Bitcoin and Ethereum, have transparent blockchains - i.e. transactions can be verified and/or traced by anyone in the world. This means that the sending and receiving addresses of these transactions could potentially be linked to real-world identities.
 <br />
