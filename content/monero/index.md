@@ -1,3 +1,6 @@
+---
+---
+
 <p align="center">
 [![](https://secunit.pages.dev/images/monero-logo-480.png)](https://getmonero.org)
 </p>
