@@ -142,7 +142,7 @@ defaultContentLanguage = "en"
     author = true
 
     # Shows social icons on footer instead of main page
-    socialIcons = false
+    socialIcons = true
 
     topText = []
     bottomText = []
