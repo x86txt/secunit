@@ -133,7 +133,7 @@ defaultContentLanguage = "en"
   # If you want, you can easily override the default footer with your own content. 
   #
   [params.fontAwesome]
-    KitURL = "https://kit.fontawesome.com/KitID.js"
+    KitURL = "https://kit.fontawesome.com/bd6f219a7e.js"
 
   [params.footer]
     trademark = false
