@@ -214,10 +214,14 @@ defaultContentLanguage = "en"
     name       = "about"
     url        = "about/"
   [[menu.main]]
-    identifier = "posts"
-    name       = "posts"
-    url        = "posts/"
-[[menu.main]]
     identifier = "monero"
     name       = "monero"
     url        = "monero/"
+  [[menu.main]]
+    identifier = "posts"
+    name       = "posts"
+    url        = "posts/"
+  [[menu.main]]
+    identifier = "tor"
+    name       = "tor"
+    url        = "tor/"
