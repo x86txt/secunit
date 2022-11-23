@@ -7,7 +7,7 @@ images:
 
 <p>
 <a href="https://tailscale.com/"><img src="https://secunit.pages.dev/images/tailscale.png" position="left" style="width:100px;float:left;"></a>
-Tailscale is a Wireguard-based, [zero-trust](https://tailscale.com/kb/1123/zero-trust/) mesh network technology that I've turned into a pretty big fan of. It can punch holes through most NAT devices via the use of DERP (*Designated Encrypted Relay for Packets*) servers, of which I run a couple for public consumption. [Tailscale maintains several public servers as well](https://tailscale.com/kb/1118/custom-derp-servers/), but I've found they're generally extremely overloaded and very slow - 1Mbps-2Mbps at most.
+Tailscale is a Wireguard-based, (zero-trust)[https://tailscale.com/kb/1123/zero-trust/] mesh network technology that I've turned into a pretty big fan of. It can punch holes through most NAT devices via the use of DERP (*Designated Encrypted Relay for Packets*) servers, of which I run a couple for public consumption. [Tailscale maintains several public servers as well](https://tailscale.com/kb/1118/custom-derp-servers/), but I've found they're generally extremely overloaded and very slow - 1Mbps-2Mbps at most.
 
 I run two on different providers (Linode and Vultr) in Atlanta to fill out a pretty big gap in their default DERP coverage.
 </p>
