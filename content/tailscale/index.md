@@ -7,17 +7,18 @@ images:
 
 <p>
 <a href="https://tailscale.com/"><img src="https://secunit.pages.dev/images/tailscale.png" position="left" style="width:100px;float:left;"></a>
-Tailscale is a Wireguard-based, (zero-trust)[https://tailscale.com/kb/1123/zero-trust/] mesh network technology that I've turned into a pretty big fan of. It can punch holes through most NAT devices via the use of DERP (*Designated Encrypted Relay for Packets*) servers, of which I run a couple for public consumption. [Tailscale maintains several public servers as well](https://tailscale.com/kb/1118/custom-derp-servers/), but I've found they're generally extremely overloaded and very slow - 1Mbps-2Mbps at most.
+Tailscale is a Wireguard-based, <a href="https://tailscale.com/kb/1123/zero-trust/">zero-trust</a> mesh network technology that I've turned into a pretty big fan of. It can punch holes through most NAT devices via the use of DERP (<i>Designated Encrypted Relay for Packets</i>) servers, of which I run a couple for public consumption. <a href="https://tailscale.com/kb/1118/custom-derp-servers/">Tailscale maintains several public servers as well</a>, but I've found they're generally extremely overloaded and very slow - 1Mbps-2Mbps at most.
 
 I run two on different providers (Linode and Vultr) in Atlanta to fill out a pretty big gap in their default DERP coverage.
 </p>
 
-If you'd like to use them there are a couple of ways to enable them, I'll show you the easier 'click-ops' GUI way here, via the [Custom DERP Servers](https://tailscale.com/kb/1118/custom-derp-servers/) sestion of the Tailscale docs.
+If you'd like to use them there are a couple of ways to enable them, I'll show you the easier 'click-ops' GUI way here, via the <a href="https://tailscale.com/kb/1118/custom-derp-servers/">Custom DERP Servers</a> section of the Tailscale docs.
 
 * Log into your Tailscale Admin Panel and hit the ACL screen: https://login.tailscale.com/admin/acls
 * Add a derpMap section -
 
->**Note** you can either keep the existing DERP servers provided by Tailscale in use, or tell it to ONLY utilize the DERP relays you specify, I chose the latter. If you don't want to do that, just omit the ```OmitDefaultRegions": true,``` line in the JSON below:
+>**Note**: you can either keep the existing DERP servers provided by Tailscale in use, or tell it to ONLY utilize the DERP relays you specify, I chose the latter. If you don't want to do that, just omit the ```OmitDefaultRegions": true,``` line in the JSON below:
+
    
    ```json
    	"derpMap": {
