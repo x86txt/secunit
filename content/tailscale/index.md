@@ -32,16 +32,16 @@ If you'd like to use them there are a couple of ways to enable them, I'll show y
 					{
 						"Name":     "1a",
 						"RegionID": 900,
-						"HostName": "derp1a.atl.secunit.io",
-						"IPv4":     "144.202.30.130",
-						"IPv6":     "2001:19f0:5401:1a6d:5400:04ff:fe37:7c53",
+						"HostName": "derp-atl-1a.secunit.io",
+						"IPv4":     "155.138.175.80",
+						"IPv6":     "2001:19f0:5401:1d5b:5400:04ff:fe38:0be6",
 					},
 					{
 						"Name":     "1b",
 						"RegionID": 900,
-						"HostName": "derp1b.atl.secunit.io",
-						"IPv4":     "170.187.205.109",
-						"IPv6":     "2600:3c02::f03c:93ff:fefa:f889",
+						"HostName": "derp-atl-1b.secunit.io",
+						"IPv4":     "139.144.18.21",
+						"IPv6":     "2600:3c02::f03c:93ff:fefa:587a",
 					},
 				],
 			},
@@ -57,8 +57,8 @@ You should see something like this, with only the DERP servers you specified pre
 ```json
 Report:
 	* UDP: true
-	* IPv4: yes, 144.202.30.130:36651
-	* IPv6: yes, [2001:19f0:5401:1a6d:5400:4ff:fe37:7c53]:33242
+	* IPv4: yes, 139.144.18.2:36651
+	* IPv6: yes, [2600:3c02::f03c:93ff:fefa:587a]:33242
 	* MappingVariesByDestIP:
 	* HairPinning: true
 	* PortMapping:
