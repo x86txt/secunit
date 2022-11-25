@@ -1,4 +1,4 @@
-baseURL = "https://secunit.pages.dev/"
+baseURL = "https://secunit.io/"
 title   = "hello | secunit"
 languageCode = "en-us"
 theme = "hello-4s3ti"

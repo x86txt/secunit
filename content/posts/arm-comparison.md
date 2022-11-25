@@ -3,6 +3,7 @@ title: "arm cpu comparison | secunit"
 date: 2022-11-25T11:19:39-04:00
 toc: false
 images:
+type: post
 ---
 
 <p>Hi everyone - like many of you, I love the x86 vs arm race that is going on and actually use an M1 Max as my daily driver - with a 5950x + 3080 with 32GB of b-die as my backup/gaming machine - and so I'm always on the lookout for faster and more capable arm boards, or even full servers.</p>
